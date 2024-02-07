@@ -3,7 +3,7 @@
     "short_name": "Not supported!",
     "icons": [
         {
-            "src": "https://files.catbox.moe/psa97s.png/android-chrome-192x192.png",
+            "src": "https://files.catbox.moe/psa97s.png",
             "sizes": "192x192",
             "type": "image/png"
         }
